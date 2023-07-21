@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Eric-byte-150/Portifoliot/static/css/main.a871320a.css",
+    "main.js": "/Eric-byte-150/Portifoliot/static/js/main.46f8d034.js",
+    "static/js/787.be55e6d0.chunk.js": "/Eric-byte-150/Portifoliot/static/js/787.be55e6d0.chunk.js",
+    "static/media/NUTRI.png": "/Eric-byte-150/Portifoliot/static/media/NUTRI.066ed7f1cfc432f7f6c3.png",
+    "static/media/BARBEARIA.png": "/Eric-byte-150/Portifoliot/static/media/BARBEARIA.a61c779133fdbd17cbaf.png",
+    "static/media/FILMESSSSS.png": "/Eric-byte-150/Portifoliot/static/media/FILMESSSSS.ba4f149b4e78880ca791.png",
+    "static/media/TOURS.png": "/Eric-byte-150/Portifoliot/static/media/TOURS.5ed8cfc9d5046ae2be1b.png",
+    "static/media/POKEDEX.png": "/Eric-byte-150/Portifoliot/static/media/POKEDEX.bb82fcd4625812344ab2.png",
+    "static/media/Curriculumdev.pdf": "/Eric-byte-150/Portifoliot/static/media/Curriculumdev.fb469b51b446c132c157.pdf",
+    "static/media/QUIZ.png": "/Eric-byte-150/Portifoliot/static/media/QUIZ.ff1012d1f2d690c494af.png",
+    "static/media/CEP.png": "/Eric-byte-150/Portifoliot/static/media/CEP.14f1a8fd8b82e57a4dd8.png",
+    "static/media/java.png": "/Eric-byte-150/Portifoliot/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/php.png": "/Eric-byte-150/Portifoliot/static/media/php.07673f5280f1199740e7.png",
+    "static/media/TO-DO-LIST.png": "/Eric-byte-150/Portifoliot/static/media/TO-DO-LIST.f2982840e20de4496f3a.png",
+    "static/media/arquivo-js.png": "/Eric-byte-150/Portifoliot/static/media/arquivo-js.2b9efa28f2fb4c227db2.png",
+    "static/media/arquivo-css.png": "/Eric-byte-150/Portifoliot/static/media/arquivo-css.0448afd774c14d467cdc.png",
+    "static/media/arquivo-html.png": "/Eric-byte-150/Portifoliot/static/media/arquivo-html.68d4e6f4c86af6b75def.png",
+    "static/media/wordpress.png": "/Eric-byte-150/Portifoliot/static/media/wordpress.11ed091523e3152b651f.png",
+    "index.html": "/Eric-byte-150/Portifoliot/index.html",
+    "main.a871320a.css.map": "/Eric-byte-150/Portifoliot/static/css/main.a871320a.css.map",
+    "main.46f8d034.js.map": "/Eric-byte-150/Portifoliot/static/js/main.46f8d034.js.map",
+    "787.be55e6d0.chunk.js.map": "/Eric-byte-150/Portifoliot/static/js/787.be55e6d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a871320a.css",
+    "static/js/main.46f8d034.js"
+  ]
+}
