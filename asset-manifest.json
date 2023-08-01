@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portifoliot/static/css/main.a871320a.css",
-    "main.js": "/Portifoliot/static/js/main.c01e908f.js",
+    "main.css": "/Portifoliot/static/css/main.587042d9.css",
+    "main.js": "/Portifoliot/static/js/main.8b3c20de.js",
     "static/js/787.be55e6d0.chunk.js": "/Portifoliot/static/js/787.be55e6d0.chunk.js",
     "static/media/NUTRI.png": "/Portifoliot/static/media/NUTRI.066ed7f1cfc432f7f6c3.png",
     "static/media/BARBEARIA.png": "/Portifoliot/static/media/BARBEARIA.a61c779133fdbd17cbaf.png",
@@ -20,12 +20,12 @@
     "static/media/arquivo-html.png": "/Portifoliot/static/media/arquivo-html.68d4e6f4c86af6b75def.png",
     "static/media/wordpress.png": "/Portifoliot/static/media/wordpress.11ed091523e3152b651f.png",
     "index.html": "/Portifoliot/index.html",
-    "main.a871320a.css.map": "/Portifoliot/static/css/main.a871320a.css.map",
-    "main.c01e908f.js.map": "/Portifoliot/static/js/main.c01e908f.js.map",
+    "main.587042d9.css.map": "/Portifoliot/static/css/main.587042d9.css.map",
+    "main.8b3c20de.js.map": "/Portifoliot/static/js/main.8b3c20de.js.map",
     "787.be55e6d0.chunk.js.map": "/Portifoliot/static/js/787.be55e6d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a871320a.css",
-    "static/js/main.c01e908f.js"
+    "static/css/main.587042d9.css",
+    "static/js/main.8b3c20de.js"
   ]
 }
